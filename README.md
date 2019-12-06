@@ -1,4 +1,4 @@
-# Simon's Blog
+# Simple Blog site
 
 Makes use of github-pages and jekyll
 

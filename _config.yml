@@ -11,7 +11,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author settings
 author: Simon Marley
 author-pic: simon.jpg
-about-author: My name is Simon Marley. I'm a Cloud Architect with a passion for solving business challenges through technology solutions. I currently educate, mentor and tinker on all things cloud related with a particular focus for Azure and adopting a DevOps mindset. My views are my own, and can be frequently incorrect!
+about-author: My name is Simon Marley. I'm a Cloud Architect with a passion for solving business challenges through technology solutions. I currently educate, mentor and tinker on all things cloud related with a particular focus on Azure. My views are my own, and can be frequently incorrect!
 
 # Contact links
 email: simonmarley@gmail.com
